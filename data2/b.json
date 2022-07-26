@@ -1,0 +1,14 @@
+[
+  {
+    "address": {
+      "city": "Paris",
+      "postalCode": "75003-222",
+      "countryCode": "FRA",
+      "street": "22 Rue du Grenier Saint-Lazare",
+      "country": "France",
+      "text": "22 Rue du Grenier Saint-Lazare, 75003 Paris, France"
+    },
+    "value": "Juca",
+    "id": "abcd001"
+  }
+]
